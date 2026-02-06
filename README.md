@@ -3,7 +3,7 @@
 A cute, terminal-based WiFi hotspot manager for Linux  
 Build, stop, and monitor your personal WiFi hotspot with a smiling cat watching over everything 😸
 
-https://github.com/imanh2002/catwifi
+https://github.com/imanh2002/Cat-WIFI
 
 ## ✨ What it does
 
